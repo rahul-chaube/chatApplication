@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307237961076",
+    "firebase_url": "https://fir-demo-df348.firebaseio.com",
+    "project_id": "fir-demo-df348",
+    "storage_bucket": "fir-demo-df348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307237961076:android:dfbf9e3141511c63",
+        "android_client_info": {
+          "package_name": "chaube.rahul.com.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307237961076-g83a8cfbemphega398u7dd7sbh4k51gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalQ42j2tKoAgkPh4SRoYNDZet135P7Gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
