@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "307237961076-h4kphns4d4ghj8ktn36mibbbgb4od6ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chaube.rahul.com.chatapplication",
+            "certificate_hash": "fbd61b2ea0862a33bd8a375b2037bd796408d6a7"
+          }
+        },
+        {
           "client_id": "307237961076-g83a8cfbemphega398u7dd7sbh4k51gs.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307237961076-g83a8cfbemphega398u7dd7sbh4k51gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
